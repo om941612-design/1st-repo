@@ -1,4 +1,4 @@
 # 1st-repo
 This is my first repo.
 <br>
-Author - Om
+Author - Om Prakash
